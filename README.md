@@ -1,11 +1,11 @@
-# Subashree-A-19CS301-Module7
+# Module7
 
-- **Name:** Subashree A  
-- **Register Number:** 212222020029
+- **Name:** Naveen P 
+- **Register Number:** 212222050039
 
 
-# 19CS301-Module7
-EX: 7.1 RECURSION
+
+# EX: 7.1 RECURSION
 ### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
 STEP 1: Start.
@@ -36,7 +36,7 @@ print(sum)
 
  
 
-EX: 7.2 TYPES OF RECURSIONS
+# EX: 7.2 TYPES OF RECURSIONS
 ### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
 STEP 1: Start.
@@ -68,7 +68,7 @@ else:
  
 
 
-EX: 7.3 TAYLOR SERIES
+# EX: 7.3 TAYLOR SERIES
 
 ###Aim: To python program to evaluate the series using recursion by collecting the x and n values from the user.
 ### ALGORITHM:
@@ -103,7 +103,7 @@ print(series(x,n))
 
  
 
-EX: 7.4 Solve by recursion relation
+# EX: 7.4 Solve by recursion relation
 
 ### Aim: To Write a Python Program to find whether a string is a palindrome or not using recursion
 
